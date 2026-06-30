@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sentiment-entropy-skill"
+version = "0.1.0"
+description = "Portable HTTP/MCP skill for sentiment entropy scoring, RAG context selection, and agentic routing."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT License"}
+authors = [
+  { name = "Zhihong Huang",   email = "zhi-hong.huang@connect.polyu.hk" },
+  { name = "Kwan Yu Chris Lo", email = "chris.ky.lo@polyu.edu.hk" },
+]
+dependencies = []
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+]
+
+[project.urls]
+Repository = "https://github.com/HuangZhihongPolyU/sentiment-entropy-skill"
+
+[project.scripts]
+sentiment-entropy = "sentiment_entropy_agent.cli:main"
+sentiment-entropy-http = "sentiment_entropy_agent.http_server:main"
+sentiment-entropy-mcp = "sentiment_entropy_agent.mcp_server:main"
+
+[project.optional-dependencies]
+mcp = ["mcp"]
+
+[tool.setuptools.packages.find]
+include = ["sentiment_entropy_agent*"]

@@ -1,0 +1,389 @@
+{
+  "top_k": 6,
+  "items": [
+    {
+      "id": "review_1",
+      "text": "Came here for dinner last night around 7pm, and we really enjoyed it! Split a bunch of tacos, some of my favorites were mushroom and pork carnitas-- both delicious. Chips and guac weren't as great as I had hoped, chips were a little too salty for my preference. Inside decor is very cute with all the antiques, but the only problem is there is not enough seating and table space. My group of 4 waited about 15 mins to sit down after we had already ordered our food at the counter. This was rather awkward and cumbersome. Half of our food orders had to be delayed because we were still standing waiting for table space to open up. If there was more table space and we didn't have that awkward wait after ordering, I would def give this 5 stars! Will still be back, we had a good time overall!",
+      "aspect_sentiments": [
+        {
+          "aspect": "dinner",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "tacos",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "mushroom",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "pork carnitas",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "Chips",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "guac",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "chips",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "Inside decor",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "antiques",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "seating",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "table space",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "food",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "counter",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "food",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "waiting",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "table space",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "table space",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "wait",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "time",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "id": "review_2",
+      "text": "Lunch/brunch was excellent!   Service great.  Prices right.  It's very clean which you don't feel at every dim sum joint.   I cannot wait to share with others   No cart, just order off the menu.  Favorites:  Singapore noodles!  Spicy won ton, egg fried rice, pea shoot crab meat. Mushroom dumpling  Least fav-spareribs w garlic. Fatty yuck.",
+      "aspect_sentiments": [
+        {
+          "aspect": "Lunch",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "Service",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "Prices",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "dim sum",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "cart",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "menu",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "Singapore noodles",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "egg fried",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "Mushroom dumpling",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "garlic",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "Fatty",
+          "sentiment": "negative"
+        }
+      ]
+    },
+    {
+      "id": "review_3",
+      "text": "Good Budae jjigae (Korean military stew) with ramen noodles, sausage, ham or spam, thin fatty beef brisket, tofu, rice cake, mushrooms, &amp; kimchi. The broth is lightly spicy, but very hearty. It's served with white or brown rice, cold kimchi, sesame fish cake. Good service, and they have a nice shaded patio next to the front door. Plenty of free parking in the lot.",
+      "aspect_sentiments": [
+        {
+          "aspect": "jjigae",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "military stew",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "ramen noodles",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "sausage",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "ham",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "spam",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "beef brisket",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "rice cake",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "mushrooms",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "kimchi",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "broth",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "served",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "white",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "brown rice",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "sesame fish cake",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "service",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "shaded patio",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "door",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "parking",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "id": "review_4",
+      "text": "Best Korean bbq I have ever had!!! Sauce for the meat and salad dressing is really good. Pickled Daikon for wrap is tasty. All the side dishes (pancake, soup, salad, seaweed &amp; bean sprout mix) Must try everything that comes with the combo meal. Ordered sideOf pork belly. Service is really good with the quality food. Expect to wait 30 to 45 mins for dinner, but worth the wait. Price is reasonable. It's a must have if you want good Korean BBQ.",
+      "aspect_sentiments": [
+        {
+          "aspect": "Korean bbq",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "Sauce",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "meat",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "salad dressing",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "wrap",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "side dishes",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "pancake",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "soup",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "salad",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "seaweed",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "bean sprout mix",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "pork belly",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "Service",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "food",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "dinner",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "wait",
+          "sentiment": "neutral"
+        },
+        {
+          "aspect": "Price",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "Korean BBQ",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "id": "review_5",
+      "text": "Phenomenal food.Phenomenal service.Phenomenal ambience.Phenomenal music.Phenomenal drinks.And yes, I just learned that word yesterday.Jordan is an amazing server. The best server I've ever had.Amazing manager. Had a fun conversation.If you want to be happy, go here.",
+      "aspect_sentiments": [
+        {
+          "aspect": "food",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "service",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "ambience",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "music",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "drinks",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "word",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "server",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "server",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "manager",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "conversation",
+          "sentiment": "positive"
+        },
+        {
+          "aspect": "happy",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "id": "review_6",
+      "text": "Trash food small menu old furniture poor service. Definitely a tourist trap. Paid $60 for a nasty sandwich and overly spiced and dry shrimp tacos. I grew up in Austin and this place used to have a soul but it's not what it was 20 years ago. Would not recommend.",
+      "aspect_sentiments": [
+        {
+          "aspect": "food",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "menu",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "furniture",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "service",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "tourist",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "sandwich",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "spiced",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "shrimp tacos",
+          "sentiment": "negative"
+        },
+        {
+          "aspect": "place",
+          "sentiment": "negative"
+        }
+      ]
+    }
+  ]
+}
